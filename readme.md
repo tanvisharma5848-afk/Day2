@@ -1,1 +1,2 @@
-This is my first git.
+This is my first git. 
+this is second commit
